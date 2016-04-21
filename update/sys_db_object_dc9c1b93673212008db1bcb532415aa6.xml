@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-21 01:02:34</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>dc9c1b93673212008db1bcb532415aa6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Car</sys_name>

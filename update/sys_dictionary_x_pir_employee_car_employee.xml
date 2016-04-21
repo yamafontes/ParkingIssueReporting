@@ -5,13 +5,8 @@
         <array>false</array>
         <attributes/>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
         <column_label>Employee</column_label>
@@ -49,10 +44,10 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-04-21 01:05:38</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>1d5edb93673212008db1bcb532415a62</sys_id>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2016-04-21 01:47:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c228e317673212008db1bcb532415a5c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Employee</sys_name>
         <sys_package display_value="Parking Issue Reporting" source="x_pir">400cd393673212008db1bcb532415a8e</sys_package>
@@ -60,8 +55,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Parking Issue Reporting">400cd393673212008db1bcb532415a8e</sys_scope>
         <sys_update_name>sys_dictionary_x_pir_employee_car_employee</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-04-21 01:05:38</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-04-21 01:47:37</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
