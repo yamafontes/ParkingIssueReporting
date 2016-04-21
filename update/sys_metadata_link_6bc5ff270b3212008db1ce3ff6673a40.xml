@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>160db0b6673212008db1bcb532415a41</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_pir_employee_car">
+    <x_pir_employee_car action="INSERT_OR_UPDATE">
+        <car display_value="GMC Yukon XL 1500">2e271cb2673212008db1bcb532415ad7</car>
+        <color>Teal</color>
+        <employee display_value="Brenda Pierce">5613acf2673212008db1bcb532415a02</employee>
+        <license_plate_number>0RQP906</license_plate_number>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-19 00:03:00</sys_created_on>
+        <sys_id>160db0b6673212008db1bcb532415a41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-19 00:03:00</sys_updated_on>
+    </x_pir_employee_car>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-21 21:25:43</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6bc5ff270b3212008db1ce3ff6673a40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0RQP906</sys_name>
+        <sys_package display_value="Parking Issue Reporting" source="x_pir">400cd393673212008db1bcb532415a8e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Parking Issue Reporting">400cd393673212008db1bcb532415a8e</sys_scope>
+        <sys_update_name>sys_metadata_link_6bc5ff270b3212008db1ce3ff6673a40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-21 21:25:43</sys_updated_on>
+        <tablename>x_pir_employee_car</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ab0db0b6673212008db1bcb532415a70</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_pir_employee_car">
+    <x_pir_employee_car action="INSERT_OR_UPDATE">
+        <car display_value="Dodge Stratus">1a271cb2673212008db1bcb532415ac4</car>
+        <color>Pink</color>
+        <employee display_value="Joyce Walker">cb13acf2673212008db1bcb532415aaf</employee>
+        <license_plate_number>7UGW836</license_plate_number>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-19 00:03:06</sys_created_on>
+        <sys_id>ab0db0b6673212008db1bcb532415a70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-19 00:03:06</sys_updated_on>
+    </x_pir_employee_car>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-21 21:26:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d30633670b3212008db1ce3ff6673afa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7UGW836</sys_name>
+        <sys_package display_value="Parking Issue Reporting" source="x_pir">400cd393673212008db1bcb532415a8e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Parking Issue Reporting">400cd393673212008db1bcb532415a8e</sys_scope>
+        <sys_update_name>sys_metadata_link_d30633670b3212008db1ce3ff6673afa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-21 21:26:48</sys_updated_on>
+        <tablename>x_pir_employee_car</tablename>
+    </sys_metadata_link>
+</record_update>
