@@ -5,6 +5,7 @@
         <element attributes="edge_encryption_enabled=true" label="Color" max_length="40" name="color" type="string"/>
         <element label="Employee" max_length="32" name="employee" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="License Plate Number" max_length="40" name="license_plate_number" type="string"/>
+        <element label="Supports Charging" max_length="40" name="supports_charging" type="boolean"/>
         <index name="index">
             <element name="car"/>
         </index>
